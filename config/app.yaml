@@ -1,6 +1,6 @@
 application:
   name: ai-observability-platform
-  environment: development
+  environment: test
   owner: VSREEHARSHINI21
 
 server:
