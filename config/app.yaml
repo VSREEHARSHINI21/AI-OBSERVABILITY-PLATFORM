@@ -1,0 +1,12 @@
+application:
+  name: ai-observability-platform
+  environment: test
+  owner: VSREEHARSHINI21
+
+server:
+  host: localhost
+  port: 8080
+
+logging:
+  level: INFO
+  format: json
