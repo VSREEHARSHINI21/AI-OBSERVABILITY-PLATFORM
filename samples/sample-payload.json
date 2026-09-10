@@ -1,0 +1,8 @@
+{
+  "tenant_id": "demo-tenant",
+  "request_id": "req-001",
+  "model": "demo-model",
+  "prompt": "Explain AI observability in simple terms.",
+  "status": "success",
+  "latency_ms": 245
+}
