@@ -1,0 +1,8 @@
+{
+  "request_id": "REQ-001",
+  "application": "ai-observability-platform",
+  "environment": "development",
+  "status": "success",
+  "latency_ms": 125,
+  "message": "Sample observability request"
+}

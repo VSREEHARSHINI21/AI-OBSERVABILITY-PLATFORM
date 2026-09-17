@@ -1,0 +1,13 @@
+application:
+  name: ai-observability-platform
+  environment: development
+  version: "1.0"
+
+server:
+  host: localhost
+  port: 8000
+
+observability:
+  logging: true
+  metrics: true
+  tracing: true
